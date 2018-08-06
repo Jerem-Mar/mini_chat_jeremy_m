@@ -1,0 +1,16 @@
+{
+    "name": "wifine/mini-tchat",
+    "authors": [
+        {
+            "name": "SirKaya",
+            "email": "jeremy.marconne@et.simplon-roanne.com"
+        }
+    ],
+    "require": {
+        "mistic100/randomcolor": "^1.0",
+        "cviebrock/eloquent-sluggable": "^4.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
